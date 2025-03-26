@@ -1,6 +1,6 @@
 ## Доска для рисования
 
-[![image info](./img/preview.jpg)](https://lomeshyza.github.io/Dinamic/)
+[![image info](./img/preview.jpg)](https://lomeshyza.github.io/Dynamic/)
 
 Функционал: 
 
